@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: '安小歪的网站状态',
+  SiteName: '星期八免费空间监测站',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
@@ -18,12 +18,12 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'GitHub',
-      url: 'https://github.com/shangskr/'
+      text: '星期八分享网',
+      url: 'https://xqba.top/'
     },
     {
-      text: 'Blog',
-      url: 'https://hexo.shangskr.top/'
+      text: '星期八导航',
+      url: 'https://wx.id.lv/'
     },
   ],
 };
