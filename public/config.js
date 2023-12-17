@@ -7,11 +7,9 @@ window.Config = {
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
     ' m795945396-b82355dccdfebc8a208c7d93',
-  ],
-    ApiKeys: [
     ' m795945425-e4bca59842b7475af7c3a883',
   ],
-
+    
   // 日志天数
   CountDays: 90,
 
@@ -21,11 +19,11 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '星期八分享网',
+      text: 'blog',
       url: 'https://xqba.top/'
     },
     {
-      text: '星期八导航',
+      text: 'links',
       url: 'https://wx.id.lv/'
     },
   ],
