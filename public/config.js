@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: '免费空间监测站',
+  SiteName: 'CEO online testing',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
