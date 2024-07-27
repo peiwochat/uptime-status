@@ -36,7 +36,7 @@ window.Config = {
     },
     {
       text: 'links',
-      url: 'https://han.za.net/'
+      url: 'https://lsd.za.org/'
     },
   ],
 };
